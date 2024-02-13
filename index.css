@@ -1,0 +1,13 @@
+.style {
+    box-size: inherit;
+}
+body, button {
+    font-size: 1.6rem;
+    color: rgb(28, 32, 34);
+
+}
+body {
+    background-color: rgb( 250 250 250)
+    font-family:heebo
+    line-height: 1.5:
+}
